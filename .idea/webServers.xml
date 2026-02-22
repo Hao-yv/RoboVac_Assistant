@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d82f1a45-c62e-4908-9b95-ccda8521de8f" name="hw-chat">
+        <fileTransfer rootFolder="/home/zhy" accessType="SFTP" host="1.94.32.221" port="22" sshConfigId="39dcadbf-1460-459e-a25c-95c9c336f062" sshConfig="zhy@1.94.32.221:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
